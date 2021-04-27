@@ -57,11 +57,11 @@ Se ha utilizado varios tipos de información:
 
 **Requisitos:**  
 - Para leer ficheros EXCEL he utilizado las suigientes librerías python:
-  - lxml
+  - lxml   
     https://anaconda.org/anaconda/lxml
-  - xlrd
+  - xlrd   
     https://anaconda.org/anaconda/xlrd
-  - openpyxl
+  - openpyxl   
     https://anaconda.org/anaconda/openpyxl
 
 [Ir a inicio](#top)
