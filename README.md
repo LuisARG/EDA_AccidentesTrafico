@@ -32,7 +32,7 @@ Los datasets utilizados en este Proyecto EDA se han creado a partir de informaci
 
 Se ha utilizado varios tipos de información:
 - [Tablas estadísticas](https://www.dgt.es/es/seguridad-vial/estadisticas-e-indicadores/accidentes-30dias/tablas-estadisticas/)   
-   La información de esta sección es la relativa a los accidentes con víctimas, tanto en vías interurbanas como en vías urbanas. Las definiciones están recogidas en la Orden INT/2223/2014, de 27 de octubre, por la que se regula la comunicación de la información al Registro Nacional de Víctimas de Accidentes de Tráfico.
+   La información de esta sección es la relativa a los accidentes con víctimas, tanto en vías interurbanas como en vías urbanas. Las definiciones están recogidas en la [Orden INT/2223/2014, de 27 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-2014-12411), por la que se regula la comunicación de la información al Registro Nacional de Víctimas de Accidentes de Tráfico.
 
    Se consideran **accidentes de tráfico con víctimas** los que se producen, o tienen su origen en una de las vías o terrenos objeto de la legislación sobre tráfico, circulación de vehículos a motor y seguridad vial, cuentan con la implicación de al menos un vehículo en movimiento y a consecuencia de los mismos una o varias personas resultan muertas y/o heridas.
 
@@ -43,7 +43,7 @@ Se ha utilizado varios tipos de información:
    Información de años desde 1998 a 2019.
 
 - [Series históricas](https://www.dgt.es/es/seguridad-vial/estadisticas-e-indicadores/accidentes-30dias/series-historicas/)   
-  La información de esta sección es la relativa a los accidentes con víctimas, tanto en vías interurbanas como en vías urbanas. Las definiciones están recogidas en la Orden INT/2223/2014, de 27 de octubre, por la que se regula la comunicación de la información al Registro Nacional de Víctimas de Accidentes de Tráfico.
+  La información de esta sección es la relativa a los accidentes con víctimas, tanto en vías interurbanas como en vías urbanas. Las definiciones están recogidas en la [Orden INT/2223/2014, de 27 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-2014-12411), por la que se regula la comunicación de la información al Registro Nacional de Víctimas de Accidentes de Tráfico.
 
   Se consideran **accidentes de tráfico con víctimas** los que se producen, o tienen su origen en una de las vías o terrenos objeto de la legislación sobre tráfico, circulación de vehículos a motor y seguridad vial, cuentan con la implicación de al menos un vehículo en movimiento y a consecuencia de los mismos una o varias personas resultan muertas y/o heridas.
 
