@@ -118,8 +118,8 @@ El proyecto EDA tiene la siguiente estructura de carpetas:
 - Análisis   
   Podemos prescindir de los registros de accidentes con conductores de sexo desconodido, porque el número es muy pequeño respecto los accidentes con sexo identificado.   
   ![Grafica](src/fig_total_conductores_x_sexo.png)   
-  *Porcentaje hombre*: conductor hombre en accidente / nº conductores hombre   
-  *Porcentaje mujer*: conductor mujer en accidente / nº conductores mujer
+  *Porcentaje hombre*: nº conductores hombre implicados en accidentes / nº conductores hombre   
+  *Porcentaje mujer*: nº conductores mujer implicados en accidentes / nº conductores mujer
   ![Grafica](src/fig_ratio_conductores_x_sexo_x_anio.png)
 
   Con la gráfica anterior demostramos que las mujeres conducen con más precaución y podemos acabar con el mito discriminatorio de que  las mujeres conducen peor que los hombres.
