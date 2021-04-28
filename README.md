@@ -116,7 +116,7 @@ El proyecto EDA tiene la siguiente estructura de carpetas:
   [CSV con el censo de conductores](src/data/clean/censo_conductores_1990_2019.csv)
 
 - Análisis   
-  Podemos prescindir de los registros de accidentes con conductores de sexo desconodido, porque el número es muy pequeño respecto los accidentes con sexo identificado.   
+  Podemos prescindir de los registros de accidentes con conductores de sexo desconocido, porque el número es muy pequeño (0,01%) respecto los accidentes con sexo identificado.   
   ![Grafica](src/fig_total_conductores_x_sexo.png)   
   *Porcentaje hombre*: nº conductores hombre implicados en accidentes / nº conductores hombre   
   *Porcentaje mujer*: nº conductores mujer implicados en accidentes / nº conductores mujer
